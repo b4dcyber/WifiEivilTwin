@@ -25,13 +25,13 @@ This project uses an ESP8266 to perform WiFi attacks such as Deauthentication an
 
     Go to Tools → Board → Boards Manager, search for and install the Deauther package.
 
-    Download and open the PhiSiFi project with Arduino IDE.
+    Download and open the Esp8266WifiEivilTwin.ino project with Arduino IDE.
 
     Under Tools → Board, select an ESP8266 Deauther board.
 
     Connect your ESP8266 and select the correct COM port under Tools → Port.
 
-    Click Upload.
+    Click Upload. and compileing the code
 
 📲 How to Use
 
@@ -68,8 +68,6 @@ This project uses an ESP8266 to perform WiFi attacks such as Deauthentication an
 
     This was built as a fun side project and proof-of-concept. No official support is provided.
 
-    For in-depth info on why deauth attacks might fail, read Spacehuhn’s blog:
-    https://blog.spacehuhn.com/deauth-attack-not-working
 
     If you have constructive feedback or find a bug, feel free to report it — no promises, but I might fix it when I have time.
 
